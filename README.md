@@ -49,6 +49,12 @@ npm start
 ---
 ![App Screenshot](https://github.com/mr-robot-abhi/mern_chat_app/blob/main/frontend/src/assets/chatapp2.PNG)
 
+---
+![App Screenshot](https://github.com/mr-robot-abhi/mern_chat_app/blob/main/frontend/src/assets/chatapp3.PNG)
+
+---
+![App Screenshot](https://github.com/mr-robot-abhi/mern_chat_app/blob/main/frontend/src/assets/chatapp4.PNG)
+
 Thanks to As a programmer for this complete video tutorial: Check out the [Video Tutorial on YouTube](https://youtu.be/HwCqsOis894) for a complete walkthrough!
 
 Enjoy building and deploying your very own real-time chat application! 🚀
