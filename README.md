@@ -15,7 +15,7 @@
 
 ## 🛠️ Configuration
 
-Set up your `.env` file with the following variables:
+Edit your `.env` file with the following variables:
 
 ```plaintext
 PORT=your_port
