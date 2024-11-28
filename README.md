@@ -1,9 +1,5 @@
 # MERN Stack Project: Real-Time Chat App with JWT & Socket.io
 
-![App Screenshot](https://github.com/mr-robot-abhi/mern_chat_app/blob/main/frontend/src/assets/chatapp1.PNG)
-
----
-![App Screenshot](https://github.com/mr-robot-abhi/mern_chat_app/blob/main/frontend/src/assets/chatapp2.PNG)
 ## 🚀 Features
 
 - **🌟 Modern Tech Stack**: MERN (MongoDB, Express, React, Node.js) + Socket.io + TailwindCSS + Daisy UI.  
@@ -47,6 +43,11 @@ npm start
 ```
 
 ---
+
+![App Screenshot](https://github.com/mr-robot-abhi/mern_chat_app/blob/main/frontend/src/assets/chatapp1.PNG)
+
+---
+![App Screenshot](https://github.com/mr-robot-abhi/mern_chat_app/blob/main/frontend/src/assets/chatapp2.PNG)
 
 Thanks to As a programmer for this complete video tutorial: Check out the [Video Tutorial on YouTube](https://youtu.be/HwCqsOis894) for a complete walkthrough!
 
